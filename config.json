@@ -1,0 +1,8 @@
+{
+  "server_name": "KTS VIP UDP",
+  "server_ip": "117.18.126.36",
+  "auth_type": "ssh",
+  "ssh_port": "22",
+  "udp_port": "5667",
+  "protocol": "udp"
+}
