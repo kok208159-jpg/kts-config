@@ -1,1 +1,7 @@
-kk
+{
+  "isPremium": false,
+  "expirationDate": "2026-12-31",
+  "maxDevices": 1,
+  "userStatus": "active",
+  "message": "Welcome to KTS VPN"
+}
